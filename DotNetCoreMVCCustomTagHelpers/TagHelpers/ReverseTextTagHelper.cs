@@ -10,7 +10,6 @@ namespace DotNetCoreMVCCustomTagHelpers.TagHelpers
 {
     // You may need to install the Microsoft.AspNetCore.Razor.Runtime package into your project
     [HtmlTargetElement("reverse")]
-    [HtmlTargetElement(Attributes = "reverse")]
     public class ReverseTextTagHelper : TagHelper
     {
         [HtmlAttributeName("asp-word")]
