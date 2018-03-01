@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCoreMVCCustomTagHelpers", "DotNetCoreMVCCustomTagHelpers\DotNetCoreMVCCustomTagHelpers.csproj", "{C3427875-343B-4320-94BB-366904032E68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3427875-343B-4320-94BB-366904032E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3427875-343B-4320-94BB-366904032E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3427875-343B-4320-94BB-366904032E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3427875-343B-4320-94BB-366904032E68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {022852EC-0662-4B91-B2F8-1D53FA7D8712}
+	EndGlobalSection
+EndGlobal
